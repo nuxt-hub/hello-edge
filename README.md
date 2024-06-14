@@ -2,6 +2,8 @@
 
 A minimal [Nuxt](https://nuxt.com) starter deployed on the Edge using [NuxtHub](https://hub.nuxt.com).
 
+https://hello.nuxt.dev
+
 ## Features
 
 - Server-Side rendering on Cloudflare Workers
