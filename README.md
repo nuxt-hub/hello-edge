@@ -9,6 +9,7 @@ https://hello.nuxt.dev
 - Server-Side rendering on Cloudflare Workers
 - ESLint setup
 - Ready to add a database, blob and KV storage
+- One click deploy on 275+ locations for free
 
 ## Setup
 
