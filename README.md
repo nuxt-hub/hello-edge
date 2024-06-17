@@ -4,6 +4,10 @@ A minimal [Nuxt](https://nuxt.com) starter deployed on the Edge using [NuxtHub](
 
 https://hello.nuxt.dev
 
+<a href="https://hello.nuxt.dev">
+<img src="https://github.com/nuxt-hub/hello-edge/assets/904724/99d1bd54-ef7e-4ac9-83ad-0a290f85edcf" alt="Hello World template for NuxtHub" />
+</a>
+
 ## Features
 
 - Server-Side rendering on Cloudflare Workers
