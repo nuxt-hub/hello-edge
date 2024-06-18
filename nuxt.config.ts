@@ -19,7 +19,15 @@ export default defineNuxtConfig({
       helloText: 'Hello from the Edge 👋'
     }
   },
-  
+
+  // https://eslint.nuxt.com
+  eslint: {
+    config: {
+      stylistic: {
+        quotes: 'single'
+      }
+    }
+  },
 
   // https://devtools.nuxt.com
   devtools: { enabled: true }
