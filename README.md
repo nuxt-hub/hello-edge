@@ -17,20 +17,10 @@ https://hello.nuxt.dev
 
 ## Setup
 
-Make sure to install the dependencies:
+Make sure to install the dependencies with [pnpm](https://pnpm.io/installation#using-corepack):
 
 ```bash
-# npm
-npm install
-
-# pnpm
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
 You can update the main text displayed by creating a `.env`:
@@ -44,17 +34,7 @@ NUXT_PUBLIC_HELLO_TEXT="Hello my world!"
 Start the development server on `http://localhost:3000`:
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
+pnpm dev
 ```
 
 ## Production
@@ -62,17 +42,7 @@ bun run dev
 Build the application for production:
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+pnpm build
 ```
 
 ## Deploy
