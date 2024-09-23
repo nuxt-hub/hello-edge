@@ -15,14 +15,14 @@
     "@nuxt/eslint": "^0.5.7",
     "@nuxthub/core": "^0.7.19",
     "nuxt": "^3.13.2",
-    "vue": "^3.5.6",
+    "vue": "^3.5.8",
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.5.7",
-    "eslint": "^9.10.0",
+    "eslint": "^9.11.0",
     "vue-tsc": "^2.1.6",
-    "wrangler": "^3.78.3"
+    "wrangler": "^3.78.7"
   },
-  "packageManager": "pnpm@9.10.0"
+  "packageManager": "pnpm@9.11.0"
 }
