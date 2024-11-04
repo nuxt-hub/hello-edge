@@ -13,17 +13,17 @@
   },
   "dependencies": {
     "@nuxt/eslint": "^0.6.1",
-    "@nuxthub/core": "^0.8.4",
-    "nuxt": "^3.13.2",
+    "@nuxthub/core": "^0.8.5",
+    "nuxt": "^3.14.0",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^0.6.1",
-    "eslint": "^9.13.0",
+    "eslint": "^9.14.0",
     "typescript": "^5.6.3",
-    "vue-tsc": "^2.1.8",
-    "wrangler": "^3.83.0"
+    "vue-tsc": "^2.1.10",
+    "wrangler": "^3.84.1"
   },
   "packageManager": "pnpm@9.12.3"
 }
