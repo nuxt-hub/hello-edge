@@ -25,9 +25,5 @@
     "vue-tsc": "^2.2.8",
     "wrangler": "^4.0.0"
   },
-  "resolutions": {
-    "nitropack": "npm:nitropack-nightly@latest",
-    "h3": "^1.15.0"
-  },
   "packageManager": "pnpm@10.6.3"
 }
